@@ -18,15 +18,6 @@ Identify and fix data quality issues using pure SQL (no external tools), prepari
 - SQL Server (T-SQL)
 - SSMS
 
-## 📂 Project Structure
-
-```
-├── DDL_creating_tables.sql       -- Table schemas with dirty data columns documented
-├── inserting_uncleaned_data.sql  -- Intentionally dirty sample data
-├── exploring_data.sql            -- Data profiling & issue detection
-├── cleaning_data.sql             -- Cleaning & standardization logic
-└── screenshots/                  -- Before/after results
-```
 
 ## 🔍 Data Quality Issues Identified
 
